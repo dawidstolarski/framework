@@ -1670,16 +1670,16 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@nuxtlabs/github-module@npm:^1.5.4":
-  version: 1.5.4
-  resolution: "@nuxtlabs/github-module@npm:1.5.4"
+"@nuxtlabs/github-module@npm:^1.6.1":
+  version: 1.6.1
+  resolution: "@nuxtlabs/github-module@npm:1.6.1"
   dependencies:
     "@nuxt/kit": ^3.0.0
     "@octokit/graphql": ^5.0.1
     "@octokit/rest": ^19.0.4
     remark-gfm: ^3.0.1
     remark-github: ^11.2.4
-  checksum: 37db95e0a00e1fd470db13f5fcc81208bc2330b9d69be7a8e416d1119ff3866f3d4098ba98c1caec9423a62af1615558d9e03025f4a347f00427ca4c3b73a644
+  checksum: f3035738987c50b37888422f38900cc77361198a3eb86d655642653ff63048efa8175f54ec42be54070ca3957e560642f6ccacabaedafe64668e6cfffb7d5677
   languageName: node
   linkType: hard
 
@@ -4688,7 +4688,7 @@ __metadata:
   dependencies:
     jiti: ^1.16.2
     nuxt: "npm:nuxt3@latest"
-    nuxt-website-theme: ^0.3.8
+    nuxt-website-theme: ^0.3.9
     pathe: ^1.0.0
     scule: ^1.0.0
     untyped: ^1.2.2
@@ -9693,9 +9693,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"nuxt-website-theme@npm:^0.3.8":
-  version: 0.3.8
-  resolution: "nuxt-website-theme@npm:0.3.8"
+"nuxt-website-theme@npm:^0.3.9":
+  version: 0.3.9
+  resolution: "nuxt-website-theme@npm:0.3.9"
   dependencies:
     "@docsearch/css": ^3.3.0
     "@docsearch/js": ^3.3.0
@@ -9708,7 +9708,7 @@ __metadata:
     "@nuxtjs/fontaine": ^0.2.3
     "@nuxtjs/html-validator": ^1.2.3
     "@nuxtjs/plausible": ^0.2.0
-    "@nuxtlabs/github-module": ^1.5.4
+    "@nuxtlabs/github-module": ^1.6.1
     "@sendgrid/client": ^7.7.0
     "@sendgrid/mail": ^7.7.0
     "@vueuse/core": ^9.6.0
@@ -9724,7 +9724,7 @@ __metadata:
     tailwindcss-border-gradient-radius: ^3.0.1
     three: ^0.147.0
     vue-lite-youtube-embed: ^1.0.9
-  checksum: 7521b5394ffd98bc0454dc48c5dff38465f25bf58585537aa7a8d7adb070cea5499ba30afb99213454c7eae38cab9ce13a331b8c50df876804e22fa156d9db4e
+  checksum: 07de49fd378a211283842ade3d92a6b7d461eab879fca9168fd8056c5e88960be43ecd1391d08b3b4d2803909560b5ca37c56e1f5394516e71ae7003ddb0ccae
   languageName: node
   linkType: hard
 
